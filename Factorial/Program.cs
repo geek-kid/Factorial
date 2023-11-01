@@ -1,4 +1,5 @@
-﻿int num;
+//Arya Taheri
+int num;
 
 Console.WriteLine("your num?");
 try
