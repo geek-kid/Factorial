@@ -1,6 +1,4 @@
-﻿using System.Runtime.CompilerServices;
-
-int num;
+﻿int num;
 
 Console.WriteLine("your num?");
 try
